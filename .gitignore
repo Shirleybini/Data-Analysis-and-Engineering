@@ -1,4 +1,4 @@
-google-sheets-credentails.json
-.env
-.ipynb_checkpoints
+fitbit/google-sheets-credentails.json
+fitbit/.env
+fitbit/.ipynb_checkpoints
 .DS_Store
